@@ -45,3 +45,7 @@
 </div>
 
 ###
+
+<p align="left">If the Linkedin link doesn't work, here is my profile: www.linkedin.com/in/anchel-varela-292488230</p>
+
+###
