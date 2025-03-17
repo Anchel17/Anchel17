@@ -46,6 +46,6 @@
 
 ###
 
-<p align="left">If the Linkedin link doesn't work, here is my profile: www.linkedin.com/in/anchel-varela-292488230</p>
+<p align="left">If the Linkedin link above doesn't work, here is my profile: www.linkedin.com/in/anchel-varela-292488230</p>
 
 ###
